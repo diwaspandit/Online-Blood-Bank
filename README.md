@@ -1,4 +1,4 @@
-This is the Online Blood Bank sample I designed using HTML, CSS, JS and PHP.
+This is the Online Blood Bank sample I designed using HTML, CSS, JS ,PHP and MySQL.
 --------------------------------------------------------------------------------------------------------
 
 Here is the detailed project pdf including:
